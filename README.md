@@ -46,16 +46,6 @@
 | ⚙️ [**mobile-pipeline**](https://github.com/lilre11/mobile-pipeline) | Framework-agnostic, gated state-machine pipeline for shipping a mobile app from idea to post-launch |
 | 🌐 [**lilre11.github.io**](https://github.com/lilre11/lilre11.github.io) | This portfolio |
 
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lilre11&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Emre's GitHub stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilre11&theme=default&hide_border=true" alt="Emre's GitHub streak" height="165">
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilre11&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165">
-</p>
 
 ### Get in touch
 
