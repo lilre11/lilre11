@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Emre 👋</h1>
 
 <p align="center">
-  Computer Engineering student in Istanbul, building at the intersection of <b>computer vision</b>, <b>full-stack product engineering</b>, and <b>applied AI</b>.
+  Computer Engineering graduate in Istanbul, building at the intersection of <b>computer vision</b>, <b>full-stack product engineering</b>, and <b>applied AI</b>.
 </p>
 
 <p align="center">
